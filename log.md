@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 11, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Created a repo for Hangry, my LaunchCode Liftoff capstone project. This has a basic
+functioning HelloWorld Java/Spring app inside.  
+Updated Trello with more user stories. 
+I invested in myself and signed up for LinkedIn Premium and started a Spring course, Learning Spring with Spring Boot. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+I still worry about where to start and which technologies to use. But I will take it one step at a time. 
+I need to work on solid blocks of time, not just working when I have "free" time or when kids are not requiring lots of attention. 
+I need to stop wondering about all of the technologies and IDEs, all the side projects and just BUILD!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Trello link = https://trello.com/b/y0CvXPIG/hangry
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+GitHub Hangry repo = https://github.com/np303/hangry.git
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
